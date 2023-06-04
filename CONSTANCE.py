@@ -1,0 +1,19 @@
+import pygame
+
+#Screen
+WIDTH = 800
+HEIGHT = 640
+X_CENTER = WIDTH//2
+Y_CENTER = HEIGHT//2
+RADIUS = 280
+
+#Colors
+BLACK = (0, 0, 0)
+DARK_BLUE = (15, 15, 30)
+BLUE = (100, 100, 255, 100)
+LIGHT_GRAY = (220, 220, 220)
+RED = (255, 0, 0)
+GREEN = (64, 128, 64, 64)
+
+#Misc
+FPS = 60
